@@ -2,7 +2,7 @@
 
 This project that i developed i learned about react components, next.js, also stripe payments and sanity integration.
 
-url: https://ecommerce-headphones-eta.vercel.app/success
+url: https://ecommerce-headphones-eta.vercel.app
 
 <h3>## Used tools:</h3>
 <ul>
