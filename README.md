@@ -31,8 +31,8 @@ Now you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-To openen sanity manage:
+To openen sanity manage and have your project id:
 
-### `cd sanity_ecommerce`
 ### `sanity manage`
 
+Remember you need to have your own env config file with your own tokens and your own shipping_rate and your own project id to uses to your own development code.
