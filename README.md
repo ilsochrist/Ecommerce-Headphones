@@ -16,3 +16,23 @@ url: https://ecommerce-headphones-eta.vercel.app/success
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/100448527/182004184-ee5b8f5f-c631-45ca-a091-13dd01fb1a63.gif)
+
+
+## Available Scripts
+
+In the project directory, first you have to install node modules in terminal:
+
+### `npm i`
+
+Now you can run:
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+To openen sanity manage:
+
+### `cd sanity_ecommerce`
+### `sanity manage`
+
