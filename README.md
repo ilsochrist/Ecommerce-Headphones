@@ -1,6 +1,8 @@
 # ECOMMERCE-HEADPHONES
 
-This project i used advanced React Best Practices such as folder and file structure, hooks, and refs. Advanced State Management of the entire application using React Context API. Next.js Best Practices such as file-based routing and data using server-side rendering and static generation. And integrate integrate with Stripe to manage payments, products, shipping rates, and the entire checkout process.
+This is a web and mobile application for e-commerce services. 
+
+I used advanced React practices such as folder and file structure, hooks, and refs. Advanced State Management of the entire application using React Context API. Next.js practices such as file-based routing and data using server-side rendering and static generation. And integrate integrate with Stripe to manage payments, products, shipping rates, and the entire checkout process.
 
 url: https://ecommerce-headphones-eta.vercel.app
 
