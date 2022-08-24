@@ -6,7 +6,7 @@ I used advanced React practices such as folder and file structure, hooks, and re
 
 url: https://ecommerce-headphones-eta.vercel.app
 
-<h3>## Used tools:</h3>
+<h3>Used tools:</h3>
 <ul>
 <li>JavaScript</li>
 <li>TypeScript</li>
